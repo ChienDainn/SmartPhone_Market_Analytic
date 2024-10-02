@@ -40,7 +40,9 @@ This analysis delves into the mobile phone market using Flipkart data to uncover
 - rear_camera: Camera quality
 
 ## Dashboard
+###Dashboard
 ![Flamingoose Insights Dashboard](https://github.com/user-attachments/assets/cb70da8d-6b74-4c32-a13e-a1fc5cbc5018)
+###Price Distribution by Processor
 ![Price Distribution by Processor](https://github.com/user-attachments/assets/815b3dae-1c38-406b-80f9-5028487570c2)
 
 
