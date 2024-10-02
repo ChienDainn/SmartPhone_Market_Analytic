@@ -57,6 +57,30 @@ This analysis delves into the mobile phone market using Flipkart data to uncover
 
 ![image](https://github.com/user-attachments/assets/7aea865a-2313-4742-ae97-6b8c691db153)
 ![image](https://github.com/user-attachments/assets/d0dc2056-5256-46db-85e4-41731337678d)
+
+  Pareto - Features Contributions
+
+ ![image](https://github.com/user-attachments/assets/9aa426ba-f282-4fcd-b2d1-6efb88a4c43d)
+
+  Linear and Non-Linear Trends
+
+![image](https://github.com/user-attachments/assets/fc2f6e55-93f0-4167-a800-fcd308a02315)
+
+  Top 5 Phones by Brand & Rating
+
+![image](https://github.com/user-attachments/assets/4d4229b1-1f22-4c3f-a43a-797d27ad8165)
+
+  Brand Loyalty
+
+![image](https://github.com/user-attachments/assets/be9c26f1-2b45-4897-983a-919408eeaf19)
+
+  Stock Analysis
+
+![image](https://github.com/user-attachments/assets/c7a85f0b-bc53-411f-846a-44c0317b9aee)
+  
+
+  
+  
   
 
 ## Summary of Insights
