@@ -41,14 +41,23 @@ This analysis delves into the mobile phone market using Flipkart data to uncover
 
 ## Dashboard
 
-###Dashboard
+  Dashboard
 
 ![Flamingoose Insights Dashboard](https://github.com/user-attachments/assets/cb70da8d-6b74-4c32-a13e-a1fc5cbc5018)
 
-###Price Distribution by Processor
+  Price Distribution by Processor
 
 ![Price Distribution by Processor](https://github.com/user-attachments/assets/815b3dae-1c38-406b-80f9-5028487570c2)
 
+  Market Share by Brands
+
+![Picture3](https://github.com/user-attachments/assets/491e57f0-77b9-43c4-85ae-4b397e07c459)
+
+  Identifying Premium vs. Budget 
+
+![image](https://github.com/user-attachments/assets/7aea865a-2313-4742-ae97-6b8c691db153)
+![image](https://github.com/user-attachments/assets/d0dc2056-5256-46db-85e4-41731337678d)
+  
 
 ## Summary of Insights
 ### Price Distribution by Processor
