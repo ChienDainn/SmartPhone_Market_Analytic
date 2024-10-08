@@ -97,12 +97,18 @@ This analysis delves into the mobile phone market using Flipkart data to uncover
 - The top players are Samsung, Realme, and Vivo, with Google having the smallest share.
 
 ### Premium vs Budget
-- Samsung has the widest price range, with several outliers above $1,00,000, indicating it offers both premium and budget options.
-- Google typically falls into the premium category, with a median price that is higher than many other brands, reflecting its focus on high-end devices.
-- Vivo: Also shows a wide spread of prices, but no extreme outliers like Samsung. The mean price appears higher than many other brands.
-- Tecno, Realme, Poco, Redmi, and Infinix: These brands are mostly positioned in the lower price segments, though they have a decent range.
-- Nothing: While this brand has fewer price points, it also has a premium offering, as suggested by the position of the box plot and outliers.
-- Micromax, Lava, Honor, Itel: These brands have consistently lower prices, with no significant outliers or high-price models.
+
+Samsung offers a diverse range of smartphones, from budget to premium, with some models exceeding $100,000.
+
+Google focuses on premium devices with higher prices, targeting users seeking top-tier technology.
+
+Vivo, while lacking Samsung's extremes, caters mainly to the mid-to-premium segment.
+
+Tecno, Realme, Poco, Redmi, and Infinix focus on budget-friendly options with decent features.
+
+Nothing leans towards premium offerings with fewer models.
+
+Micromax, Lava, Honor, and Itel remain in the budget category, consistently offering affordable, functional devices without venturing into premium pricing.
 
 ### Feature Contribution
 
