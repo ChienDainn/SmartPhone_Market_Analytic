@@ -98,17 +98,17 @@ This analysis delves into the mobile phone market using Flipkart data to uncover
 
 ### Premium vs Budget
 
-Samsung offers a diverse range of smartphones, from budget to premium, with some models exceeding $100,000.
+- Samsung offers a diverse range of smartphones, from budget to premium, with some models exceeding $100,000.
 
-Google focuses on premium devices with higher prices, targeting users seeking top-tier technology.
+- Google focuses on premium devices with higher prices, targeting users seeking top-tier technology.
 
-Vivo, while lacking Samsung's extremes, caters mainly to the mid-to-premium segment.
+- Vivo, while lacking Samsung's extremes, caters mainly to the mid-to-premium segment.
 
-Tecno, Realme, Poco, Redmi, and Infinix focus on budget-friendly options with decent features.
+- Tecno, Realme, Poco, Redmi, and Infinix focus on budget-friendly options with decent features.
 
-Nothing leans towards premium offerings with fewer models.
+- Nothing leans towards premium offerings with fewer models.
 
-Micromax, Lava, Honor, and Itel remain in the budget category, consistently offering affordable, functional devices without venturing into premium pricing.
+- Micromax, Lava, Honor, and Itel remain in the budget category, consistently offering affordable, functional devices without venturing into premium pricing.
 
 ### Feature Contribution
 
